@@ -10,3 +10,13 @@ Task for android Reader
 7. 小说章节识别处理
 8. 敏感词处理
 9. 阅读时间提示
+
+#第三方库
+* Dagger2
+* ButterKnife
+* rxjava2
+* realm
+* DroidAndroid 
+* TimBer 日志
+* joda-time 日期
+* stetho
