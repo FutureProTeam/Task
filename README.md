@@ -11,12 +11,12 @@ Task for android Reader
 8. 敏感词处理
 9. 阅读时间提示
 
-#第三方库
-* Dagger2
-* ButterKnife
-* rxjava2
-* realm
-* DroidAndroid 
-* TimBer 日志
-* joda-time 日期
-* stetho
+#第三方库 
+* Dagger2(已集成)
+* ButterKnife(已集成)
+* rxjava2(已集成)
+* realm(已集成)
+* DroidAndroid (已集成)
+* TimBer 日志(已集成)
+* joda-time 日期(已集成)
+* stetho Stetho-Realm(已集成)
